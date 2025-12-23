@@ -74,7 +74,7 @@ All Rocket League matches in the Ibex Gaming League are played in **3v3 Soccar M
 | Setting          | Value                     |
 |------------------|---------------------------|
 | Game Mode        | Soccar (3v3)              |
-| Arena            | DFH Stadium (default)     |
+| Arena            | DFH Stadium (unless specified otherwise)     |
 | Team Size        | 3v3                       |
 | Bot Difficulty   | No Bots                   |
 | Mutators         | None                      |
@@ -104,12 +104,12 @@ All Rocket League matches in the Ibex Gaming League are played in **3v3 Soccar M
 ### 4.1 Player Streaming
 
 - Players may stream their **own point-of-view (POV)** gameplay with a **minimum 2-minute delay**.
-- Streams must include **"Ibex Gaming League"** in the title.
+- Streams must include the name of the competition in the title e.g. "Ibex Gaming Circuit | Premier Division | Winter Season 2026".
 - **Official broadcasts take precedence** over any personal stream. Players must comply with admin instructions regarding media restrictions.
 
 ### 4.2 Voice Channels & Listen-Ins
 
-- All teams must use the **designated Ibex Discord voice channels** during official matches.
+- All teams must use the **designated Discord voice channels** during official matches if requested by the administrators.
 - For streamed matches, **listen-ins** may be used as part of the broadcast unless a team **opts out in advance**.
 - One (1) player per team may be asked to participate in **post-match interviews** during or after official broadcasts.
 

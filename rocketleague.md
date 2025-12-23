@@ -52,7 +52,7 @@ The Tournament Administration may grant **special exemptions** to:
 
 ### 2.6 Roster Locks
 - Teams must retain the roster submitted during the **qualifier** (if applicable).
-- Up to **two (2) player substitutions** may be made before the **season-specific roster lock deadline**.
+- Up to **two (1) player substitutions** may be made before the **season-specific roster lock deadline**.
 - After this deadline, all roster changes must follow the official procedure.
 
 ---

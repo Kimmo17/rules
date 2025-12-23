@@ -35,12 +35,12 @@ By participating, all teams and players agree to:
 ### 2.2 Swiss Residency Requirement
 At least **2 of the 3 playing individuals** must:
 - Hold **Swiss citizenship**, or  
-- Reside in Switzerland and possess at least a **B-permit**.
+- Reside in Switzerland and possess at least a **B-permit**, or
+- Either being a citizen or permanent resident of the Principality of Lichtenstein,
 
 ### 2.3 Foreign Player Exceptions
 The Tournament Administration may grant **special exemptions** to:
-- **Residents of the Principality of Liechtenstein**, or  
-- **Players who have participated in at least 3 Swiss Rocket League events within the past 400 days and have been part of the same Swiss esports organisation for more than 3 consecutive months.**
+**Players who have participated in at least 3 Swiss Rocket League events within the past 400 days and have been part of the same Swiss esports organisation for more than 3 consecutive months.**
 
 ### 2.4 Account Registration
 - All players must register their **primary Epic Games ID** (and Steam ID, if applicable).

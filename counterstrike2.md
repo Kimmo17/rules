@@ -24,7 +24,7 @@ For general eligibility, conduct, media, data, prizes, and legal terms, refer to
 
 ### 2.1. Team Composition
 - **Team size:** 5 players + up to 2 substitutes  
-- **Nationality:** Minimum of **3 active players must be Swiss nationals or hold at least a B permit**  
+- **Nationality:** Minimum of **3 active players must be Swiss or Liechtenstein nationals or hold at least a B permit**  
 - **Captain:** Each team must designate a **Captain** and optionally a **Vice-Captain** for communication
 
 ### 2.2. Account Registration

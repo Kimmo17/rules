@@ -865,7 +865,7 @@ IGL will:
 
 ### 10.7. Cookie and Tracking Technologies
 
-IGL websites use cookies and similar technologies as described in the detailed Cookie Policy available at [ibexgaming.org/privacy](https://ibexgaming.org/privacy), including:
+IGL websites use cookies and similar technologies as described in the detailed Cookie Policy available at [ibexgaming.org/privacy-policy](https://ibexgaming.org/privacy-policy), including:
 
 - **Strictly necessary cookies** for website functionality
 - **Performance cookies** for analytics (with consent)
